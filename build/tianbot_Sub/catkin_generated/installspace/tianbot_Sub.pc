@@ -1,0 +1,8 @@
+prefix=/home/lu/tianbot_ws/install
+
+Name: tianbot_Sub
+Description: Description of tianbot_Sub
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

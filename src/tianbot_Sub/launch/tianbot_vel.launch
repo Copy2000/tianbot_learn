@@ -1,0 +1,6 @@
+<launch>
+<include file="$(find tianbot_mini_gazebo)/launch/simulation.launch"></include>
+
+<node pkg="tianbot_Sub" type="tianbot_Vel" name="tianbot_Vel" output="screen"/>
+<node pkg="tianbot_Sub" type="tianbot_Pose" name="tianbot_Pose" output="screen"/>
+</launch>
