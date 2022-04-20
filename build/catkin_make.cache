@@ -1,2 +1,2 @@
-tianbot_Sub:tianbot_mini:tianbot_mini_description:tianbot_mini_gazebo
+action_onegoal:tianbot_Sub:tianbot_mini:tianbot_mini_description:tianbot_mini_gazebo
 -DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/lu/tianbot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/lu/tianbot_ws/install -G Unix Makefiles

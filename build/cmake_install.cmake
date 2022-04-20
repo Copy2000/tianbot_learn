@@ -127,6 +127,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/lu/tianbot_ws/build/gtest/cmake_install.cmake")
   include("/home/lu/tianbot_ws/build/tianbot_mini/cmake_install.cmake")
+  include("/home/lu/tianbot_ws/build/action_onegoal/cmake_install.cmake")
   include("/home/lu/tianbot_ws/build/tianbot_Sub/cmake_install.cmake")
   include("/home/lu/tianbot_ws/build/tianbot_mini_description/cmake_install.cmake")
   include("/home/lu/tianbot_ws/build/tianbot_mini_gazebo/cmake_install.cmake")
